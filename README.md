@@ -6,7 +6,7 @@
 - Currently learning **React, Javascript**
 
 <h3 align="left">My LinkedIn:</h3>
-<p align="left"> <a href="https://linkedin.com/in/zen-hanley-reisser" target="blank">
+<p align="left"> <a href="www.linkedin.com/in/zen-hanley-reisser" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zen-hanley-reisser" height="30" width="40" /></a>
 </p>
 
